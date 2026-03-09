@@ -158,6 +158,16 @@ section {
   margin-right: 0.45rem;
 }
 
+.biodiversity-link {
+  margin-top: 1.5rem;
+  max-width: 32rem;
+}
+
+.biodiversity-link a {
+  color: var(--color-accent-dark);
+  font-weight: 600;
+}
+
 .grid {
   display: grid;
   gap: 1rem;
