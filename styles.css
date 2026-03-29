@@ -168,6 +168,28 @@ section {
   font-weight: 600;
 }
 
+.poem-image {
+  text-align: center;
+}
+
+.poem-image-intro {
+  max-width: 42rem;
+  margin: 0 auto 1.25rem;
+  color: var(--color-muted);
+}
+
+.poem-figure {
+  margin: 0;
+}
+
+.poem-figure img {
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  border-radius: 14px;
+  box-shadow: var(--shadow-soft);
+}
+
 .grid {
   display: grid;
   gap: 1rem;
